@@ -1,0 +1,47 @@
+[
+  {
+    "amount": 228.9,
+    "description": "PIX",
+    "type": "CREDIT"
+  },
+  {
+    "amount": 301.1,
+    "description": "Transferência",
+    "type": "CREDIT"
+  },
+  {
+    "amount": 150.59,
+    "description": "PIX",
+    "type": "CREDIT"
+  },
+  {
+    "amount": 69.8,
+    "description": "PIX",
+    "type": "CREDIT"
+  },
+  {
+    "amount": 205.76,
+    "description": "Boleto",
+    "type": "DEBIT"
+  },
+  {
+    "amount": 10.9,
+    "description": "Cartão",
+    "type": "DEBIT"
+  },
+  {
+    "amount": 1130.45,
+    "description": "PIX",
+    "type": "CREDIT"
+  },
+  {
+    "amount": 220.7,
+    "description": "Boleto",
+    "type": "DEBIT"
+  },
+  {
+    "amount": 236.89,
+    "description": "Transferência",
+    "type": "DEBIT"
+  }
+]
